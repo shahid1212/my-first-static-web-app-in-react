@@ -6,6 +6,7 @@ function App() {
     Name:
     <input type="text" name="name" />
   </label>
+  <input type="text" name="email"/>
   <input type="submit" value="Submit" />
 </form></div>;
 }
